@@ -13,3 +13,24 @@ body{
 .classname{
 
 }
+
+
+.box{
+    width: 100%;
+    height: 100px;
+}
+#header{
+    background-color: gray;
+}
+ .fidy{
+     height: 200px;
+     width: 50%;
+     float: left;
+ }
+ .red{
+     background-color: red; 
+}   
+ .blue{
+     background-color: blue;
+ }
+  one_quarter{ 
