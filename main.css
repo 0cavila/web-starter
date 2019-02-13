@@ -33,4 +33,17 @@ body{
  .blue{
      background-color: blue;
  }
-  one_quarter{ 
+  .one_quarter{   
+      height: 200px;
+      width: 25%;
+      float: left;
+  }
+  .three_quarter{
+      height: 200px;
+      width: 75%;
+      float: left; 
+  }
+  .two_thirds{
+      height: 200px;
+      width:  33.33%
+      background-color: blue;
